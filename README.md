@@ -1,4 +1,4 @@
-# Actividad Formativa 4 – Implementación y evaluación de filtros digitales
+# Actividad Formativa 3 – Implementación y evaluación de filtros digitales
 
 
 # Objetivo
@@ -14,3 +14,4 @@ Diseñar filtros digitales en Python, aplicarlos a señales de prueba y analizar
 
 # Instalación:
 pip install numpy scipy matplotlib
+
